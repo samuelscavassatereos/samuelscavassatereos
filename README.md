@@ -1,8 +1,8 @@
 
 
 <div>
-  <p align="center">Olá jovem padawan, seja bem vindo ao meu perfil 😃️</p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/samuel-melegatti-scavassa-272006210/"><i>Samuel Melegatti</i></a> e estou atuando como estagiário de engenharia de dados da área de BI na <a href="https://br.tereos.com/pt-pt/"><i>Tereos Brasil</i></a>. 😃️</p>
+  <p align="center">Olá jovem padawan, seja bem vindo ao meu perfil 🖖</p>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/samuel-melegatti-scavassa-272006210/"><i>Samuel Melegatti</i></a> e estou atuando como estagiário de engenharia de dados da área de BI na <a href="https://br.tereos.com/pt-pt/"><i>Tereos Brasil</i></a>. 🌿</p>
   
 </div>
 
